@@ -37,6 +37,8 @@ class RandomCheck(AgentCheck):
 
 --> Clone your database integration dashboard and add additional database metrics to it as well as your test.support.random metric from the custom Agent check: OK
 
+Link of the Dashboard:https://app.datadoghq.com/dash/348224/mysql---overview-cloned?live=true&page=0&is_auto=false&from_ts=1504076317748&to_ts=1504079917748&tile_size=m
+
 --> Bonus question: What is the difference between a timeboard and a screenboard?
 A timeboard is like common graphs with time as the X-axis and a parameter as the Y-axis whereas a screenboard is a parameter visualization made of images, text, value ranking that is more customizable.
 
@@ -62,3 +64,6 @@ A timeboard is like common graphs with time as the X-axis and a parameter as the
 --> Make sure that your email is notified when you schedule the downtime and take a screenshot of that notification
 
 <a target="_blank" href="https://imageshack.com/i/pncz3Ynmp"><img src="http://imagizer.imageshack.us/v2/1024x768q90/923/cz3Ynm.png" border="0"></a>
+
+
+
